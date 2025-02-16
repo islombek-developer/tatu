@@ -1,0 +1,74 @@
+[
+    {
+      "question": "Kalkulyatorning koʻpaytirish amalini bajarilganda natijani tashkil qilgan 1 (zaryadlar) sonini nechtaligini aniqlang. 30x31=",
+      "answer": "Noto'g'ri"
+    },
+    {
+      "question": "Kompyuter uchun xato kodlari koʻpincha oʻn oltilik qiymatlar sifatida koʻrsatiladi. F9A oʻn oltilik xato kodi uchun saqlanadigan 12 bitli ikkilik qiymatni yozing.",
+      "answer": "111110011010"
+    },
+    {
+      "question": "2 lik sanoq sistemasida berilgan quyidagi sonni 16 lik sanoq sistemasidagi qiymatini aniqlang. 1011011110111101",
+      "answer": "B7BD"
+    },
+    {
+      "question": "Bilamizki hisoblash mashinasi qoʻshish amalini mavjud. Quyida berilgan manfiy son natijasini 8 bit koʻrinishda toʻgʻri berilgan javobni aniqlang. -50",
+      "answer": "11001110"
+    },
+    {
+      "question": "Bilamizki hisoblash mashinasi qoʻshish amalini mavjud. Quyida berilgan manfiy son natijasini 8 bit koʻrinishda toʻgʻri berilgan javobni aniqlang. -39",
+      "answer": "11011001"
+    },
+    {
+      "question": "Kalkulyatorning koʻpaytirish amalini bajarilganda natijani tashkil qilgan 1 (zaryadlar) sonini nechtaligini aniqlang. 23x42=",
+      "answer": "6"
+    },
+    {
+      "question": "Avtobus bekatida chipta mashinasi mavjud. Mijozning chipta raqami 10111011 ikkilikda berilgan, lekin chipta mashinasida oʻnlikda tasvirlangan. Berilgan chiptalarni oʻz egasiga toʻgʻri yetkazib berishga yordam bering.",
+      "answer": "187"
+    },
+    {
+      "question": "Quyida berilgan X ifodaning chiqishidagi nechta qiymatlari 1 (zaryad bor) boʻlishini aniqlang. X=NOT (A OR B OR C) AND (B NOR C)",
+      "answer": "1"
+    },
+    {
+      "question": "Ibrohimning Hemisdagi sahifasiga topshiriq keldi. Topshiriq: 73.89+20.13= BCD tizimda natijani aniqlang.",
+      "answer": "10010100.00000010"
+    },
+    {
+      "question": "Kompyuter uchun xato kodlari koʻpincha oʻn oltilik qiymatlar sifatida koʻrsatiladi. 1FB oʻn oltilik xato kodi uchun saqlanadigan 12 bitli ikkilik qiymatni yozing.",
+      "answer": "000111111011"
+    },
+    {
+      "question": "Kompyuter uchun xato kodlari koʻpincha oʻn oltilik qiymatlar sifatida koʻrsatiladi. EAC oʻn oltilik xato kodi uchun saqlanadigan 12 bitli ikkilik qiymatni yozing.",
+      "answer": "111010101100"
+    },
+    {
+      "question": "2 lik sanoq sistemasida berilgan quyidagi sonni 16 lik sanoq sistemasidagi qiymatini aniqlang. 101101011101111",
+      "answer": "5AEF"
+    },
+    {
+      "question": "Avtobus bekatida chipta mashinasi mavjud. Mijozning chipta raqami 11011101 ikkilikda berilgan, lekin chipta mashinasida oʻnlikda tasvirlangan. Berilgan chiptalarni oʻz egasiga toʻgʻri yetkazib berishga yordam bering.",
+      "answer": "221"
+    },
+    {
+      "question": "Kompyuter uchun xato kodlari koʻpincha oʻn oltilik qiymatlar sifatida koʻrsatiladi. BCD oʻn oltilik xato kodi uchun saqlanadigan 12 bitli ikkilik qiymatni yozing.",
+      "answer": "101111001101"
+    },
+    {
+      "question": "Bilamizki hisoblash mashinasi qoʻshish amalini mavjud. Quyida berilgan manfiy son natijasini 8 bit koʻrinishda toʻgʻri berilgan javobni aniqlang. -91",
+      "answer": "10100101"
+    },
+    {
+      "question": "Kompyuter uchun xato kodlari koʻpincha oʻn oltilik qiymatlar sifatida koʻrsatiladi. 6DC oʻn oltilik xato kodi uchun saqlanadigan 12 bitli ikkilik qiymatni yozing.",
+      "answer": "011011011100"
+    },
+    {
+      "question": "Bilamizki hisoblash mashinasi qoʻshish amalini mavjud. Quyida berilgan manfiy son natijasini 8 bit koʻrinishda toʻgʻri berilgan javobni aniqlang. -30",
+      "answer": "11100010"
+    },
+    {
+      "question": "Kompyuter uchun xato kodlari koʻpincha oʻn oltilik qiymatlar sifatida koʻrsatiladi. C02 oʻn oltilik xato kodi uchun saqlanadigan 12 bitli ikkilik qiymatni yozing.",
+      "answer": "110000000010"
+    }
+  ]
