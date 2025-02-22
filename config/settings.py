@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ndyk#-b2dgy&r=yqra!qcg$^55r0*)8d0x#q4*9rc-s-jtp6tk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -39,14 +39,15 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'tatu',
-
     'rest_framework',
+    "corsheaders",
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
+    'django.middleware.common.CommonMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
-    'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
@@ -73,6 +74,27 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'config.wsgi.application'
 
+CORS_ALLOWED_ORIGINS = [
+    "https://student.fbtuit.uz",
+]
+CORS_ALLOW_ALL_ORIGINS = True  # Only for development! In production, use CORS_ALLOWED_ORIGINS
+CORS_ALLOW_METHODS = [
+    'POST',
+    'OPTIONS'
+]
+CORS_ALLOW_CREDENTIALS = True 
+# Allow these headers in requests
+CORS_ALLOW_HEADERS = [
+    'accept',
+    'accept-encoding',
+    'authorization',
+    'content-type',
+    'dnt',
+    'origin',
+    'user-agent',
+    'x-csrftoken',
+    'x-requested-with',
+]
 
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
